@@ -1,0 +1,5 @@
+C:\Users\VAIO\documents\visual studio 2013\Projects\WalterCodingTask\WalterCodedUITest\bin\Debug\WalterCodedUITest.dll
+C:\Users\VAIO\documents\visual studio 2013\Projects\WalterCodingTask\WalterCodedUITest\bin\Debug\WalterCodedUITest.pdb
+C:\Users\VAIO\documents\visual studio 2013\Projects\WalterCodingTask\WalterCodedUITest\obj\Debug\WalterCodedUITest.csprojResolveAssemblyReference.cache
+C:\Users\VAIO\documents\visual studio 2013\Projects\WalterCodingTask\WalterCodedUITest\obj\Debug\WalterCodedUITest.dll
+C:\Users\VAIO\documents\visual studio 2013\Projects\WalterCodingTask\WalterCodedUITest\obj\Debug\WalterCodedUITest.pdb
