@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<UITest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="" Id="2086ffb9-3944-4868-afe2-9cb7b46d1011" AssemblyVersion="12.0.31101.0" Version="1.0" xmlns="http://schemas.microsoft.com/VisualStudio/TeamTest/UITest/2010">
+<UITest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="" Id="08af3159-18a9-46b1-b72c-552ca4984591" AssemblyVersion="12.0.31101.0" Version="1.0" xmlns="http://schemas.microsoft.com/VisualStudio/TeamTest/UITest/2010">
   <Configuration>
     <Group Name="IE">
       <Setting Name="Version" Value="9.11.9600.17914" WarningLevel="1" />
@@ -33,7 +33,11 @@
       <Setting Name="UACEnabled" Value="1" WarningLevel="2" />
       <Setting Name="UACPromptEnabled" Value="5" WarningLevel="1" />
     </Group>
-    <Group Name="TechnologyManagers" />
+    <Group Name="TechnologyManagers">
+      <Setting Name="Web" WarningLevel="1" />
+      <Setting Name="Web" WarningLevel="1" />
+      <Setting Name="UIA" WarningLevel="1" />
+    </Group>
   </Configuration>
   <InitializeActions />
   <ExecuteActions>
@@ -60,7 +64,7 @@
       <ParameterName />
       <PropertyName>DisplayText</PropertyName>
       <ExpectedValue>Success</ExpectedValue>
-      <MessageOnValidationFailure>Error occurred</MessageOnValidationFailure>
+      <MessageOnValidationFailure />
       <Type>String</Type>
       <PropertyCondition>AreEqual</PropertyCondition>
     </AssertAction>
@@ -79,7 +83,7 @@
   <Maps>
     <UIMap Id="UIMap">
       <TopLevelWindows>
-        <TopLevelWindow ControlType="Window" Id="UIHttplocalhost60043MaWindow" FriendlyName="http://localhost:60043/Main.aspx - Internet Explor..." SpecialControlType="BrowserWindow" SessionId="1246120">
+        <TopLevelWindow ControlType="Window" Id="UIHttplocalhost60043MaWindow" FriendlyName="http://localhost:60043/Main.aspx - Internet Explor..." SpecialControlType="BrowserWindow" SessionId="131472">
           <TechnologyName>MSAA</TechnologyName>
           <WindowTitles>
             <WindowTitle>http://localhost:60043/Main.aspx</WindowTitle>

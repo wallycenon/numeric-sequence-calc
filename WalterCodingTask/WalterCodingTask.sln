@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalterCodingTask", "WalterC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalterCodingTask.Tests", "WalterCodingTask.Tests\WalterCodingTask.Tests.csproj", "{933E1974-0531-45F6-83DE-84A4AAA07655}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalterCodedUITest", "WalterCodedUITest\WalterCodedUITest.csproj", "{3B6239D1-5105-4449-AE61-45495A4BB9D2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalterCodedUITest", "WalterCodedUITest\WalterCodedUITest.csproj", "{856E51A2-1A83-4899-87D1-CABE451B2F23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{933E1974-0531-45F6-83DE-84A4AAA07655}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{933E1974-0531-45F6-83DE-84A4AAA07655}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{933E1974-0531-45F6-83DE-84A4AAA07655}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3B6239D1-5105-4449-AE61-45495A4BB9D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3B6239D1-5105-4449-AE61-45495A4BB9D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3B6239D1-5105-4449-AE61-45495A4BB9D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3B6239D1-5105-4449-AE61-45495A4BB9D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{856E51A2-1A83-4899-87D1-CABE451B2F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856E51A2-1A83-4899-87D1-CABE451B2F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856E51A2-1A83-4899-87D1-CABE451B2F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856E51A2-1A83-4899-87D1-CABE451B2F23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

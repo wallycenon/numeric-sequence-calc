@@ -54,7 +54,7 @@ namespace WalterCodedUITest
             #endregion
 
             // Verify that the 'DisplayText' property of 'Success' pane equals 'Success'
-            Assert.AreEqual(this.AssertMethod1ExpectedValues.UISuccessPaneDisplayText, uISuccessPane.DisplayText, "Error occurred");
+            Assert.AreEqual(this.AssertMethod1ExpectedValues.UISuccessPaneDisplayText, uISuccessPane.DisplayText);
         }
         
         #region Properties
